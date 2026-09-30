@@ -1,1 +1,0 @@
-import{f as o,u as p,j as r,aa as t}from"./index-Vp2T0Epl.js";const u={},s=o((e,a)=>{const n=p("TextInput",u,e);return r.jsx(t,{component:"input",ref:a,...n,__staticSelector:"TextInput"})});s.classes=t.classes;s.displayName="@mantine/core/TextInput";export{s as T};
